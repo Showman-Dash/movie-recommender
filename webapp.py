@@ -52,6 +52,3 @@ if st.button('Click'):
 
     st.text(recommended_movie[4])
     st.image(recommended_poster[4])
-  git config --global user.email "soham270802@gmail.com"
-git config --global user.name "Soham Das"
-
